@@ -31,3 +31,8 @@ The other three are self explanatory, you may use them if you feel like it is ne
 On top of all that, you may create an Issue, that will be shown in the "Issues" item on the top bar.
 
 ![image](https://github.com/user-attachments/assets/27a551ff-1c23-4022-98fe-4ce41ce67705)
+
+There is also the Roadmap, which will help you create a better timing when working together on objectives. Check it out later, it is very intuitive.
+
+![image](https://github.com/user-attachments/assets/8f02c79a-4c37-4908-877b-7c914a00d787)
+
